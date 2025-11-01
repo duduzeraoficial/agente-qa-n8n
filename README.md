@@ -120,6 +120,9 @@ O nó `agente_principal` dentro do Estágio 2 é a ferramenta que faz essa chama
 * `Agente Testador de LLMs.json`: Workflow do Estágio 2 (Execução do Teste).
 * `Agente Revisador do teste.json`: Workflow do Estágio 3 (Análise e Relatório).
 
-# Contato
-Whatsapp: 5534998557386
-Instagram: eduardosousa.12
+## 6. Contato
+
+Conecte-se comigo e vamos conversar sobre como posso ajudar a automatizar os processos da sua empresa:
+
+* **LinkedIn:** www.linkedin.com/in/eduardo-sousa-dev12
+* **E-mail:** eduardodesousasilva12@gmail.com
